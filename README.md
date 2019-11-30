@@ -7,8 +7,8 @@ Smart Sadak System aims to automate the monitoring of the direction of driving v
 4. Estimate the congestion level on roads and automatically adjust the traffic light timings smartly.
 5. Determine the vehicle details passing through the smart sadak.
 
-![alt text](img/index.png)
-![alt text](img/concept.jpg)
+![alt text](index.png)
+![alt text](concept.jpg)
 
 ## Implemented:
 Detect violation of traffic signal:
@@ -17,7 +17,7 @@ A RFID sensor is placed at the traffic signal to detect whether a vehicle is dis
 Detect heavy vehicle and enforce time restriction:
 RFID sensor will determine vehicle class and enforce time restrictions for moving heavy vehicles and send an instant notfication to the vehicle owner.
 
-![alt text](img/junction.png)
+![alt text](junction.png)
 
 ## Future Enhancements :
 
@@ -26,4 +26,4 @@ Statistical analysis of the data gathered and report generation to help in monit
 Locating offenders by detecting their vehicles using RFIDs to aid authorities. 
 Securing data using Cloud-Based Technologies and Artificial Intelligence to make the system centrally manageable and scalable without the traditional support and costs.  
 
-![alt text](img/future.jpg)
+![alt text](future.jpg)
